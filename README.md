@@ -5,4 +5,4 @@ This repository includes notes and assignments of online courses.
 
 ### [Introduction to Statistics_by Stanford University](https://github.com/lijing0913/Online-Courses/tree/main/02%20Introduction%20to%20Statistics_by%20Stanford%20University)
 
-### [Time Series Forecasting using Python](https://github.com/lijing0913/Online-Courses/tree/main/02%20Introduction%20to%20Statistics_by%20Stanford%20University)
+### [Time Series Forecasting using Python](https://github.com/lijing0913/Online_Courses/tree/main/03%20Time%20Series%20Forecasting%20using%20Python)
