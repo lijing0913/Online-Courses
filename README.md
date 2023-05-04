@@ -13,4 +13,6 @@ This repository includes notes and assignments of online courses I have complete
 
 ### [Fitting Statistical Models to Data with Python_by University of Michigan](https://github.com/lijing0913/Online_Courses/tree/main/06%20Fitting%20Statistical%20Models%20to%20Data%20with%20Python_by%20University%20of%20Michigan)
 
+### [C++ Basics: Selection and Iteration](https://github.com/lijing0913/Online_Courses/tree/main/07%20C%2B%2B%20Basics_%20Selection%20and%20Iteration)
 
+### [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://github.com/lijing0913/Online_Courses/tree/main/08%20C%2B%2B%20Basic%20Structures_%20Vectors_Pointers_Strings_and%20Files)
