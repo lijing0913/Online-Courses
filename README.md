@@ -18,3 +18,5 @@ This repository includes notes and assignments of online courses I have complete
 ### [C++ Basic Structures: Vectors, Pointers, Strings, and Files](https://github.com/lijing0913/Online_Courses/tree/main/08%20C%2B%2B%20Basic%20Structures_%20Vectors_Pointers_Strings_and%20Files)
 
 ### [C++ Object Basics: Functions, Recursion, and Objects](https://github.com/lijing0913/Online_Courses/tree/main/09%20C%2B%2B%20Object%20Basics_%20Functions_Recursion_and%20Objects)
+
+### [Object-Oriented C++: Inheritance and Encapsulation](https://github.com/lijing0913/Online_Courses/tree/main/10%20Object-Oriented%20C%2B%2B_%20Inheritance%20and%20Encapsulation)
